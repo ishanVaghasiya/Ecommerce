@@ -1,0 +1,6 @@
+###Backend
+npm init -y
+1.in server or index  file listed Backend on one port
+2.connect server to database(mongodb or else)
+3.create a schema or models 
+4.create a routes

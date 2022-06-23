@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+html{
+  scroll-behavior: smooth;
+}
+
+.myLink, .myLink:hover{
+  color: inherit;
+  text-decoration: unset;
+  font-size: 1.2rem;
+}
+
+.svgPic {
+  text-align: center;
+
+}
+
+.svgPic img{
+  width: 500px;
+  height: 500px;
+}
